@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+/.idea
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.idea
+.DS_Store
